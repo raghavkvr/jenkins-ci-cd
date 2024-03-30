@@ -55,7 +55,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>jenkinsCiCd</finalName>
+		<finalName>jenkinsFirstDemo</finalName>
 	</build>
 
 </project>
